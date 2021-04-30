@@ -23,7 +23,7 @@ public:
                  t=false;
               }
          }
-                 else {
+                else {
                      if(t==true && digits[0]!= 9)
                      {
                          digits[i]+=1;
